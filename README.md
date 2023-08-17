@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AutemLitch
-- 👀 I’m interested in software 
+- 👀 I’m interested in software,music and videogames.
 - 🌱 I’m currently learning Data base with python
 
 <!---
